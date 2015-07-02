@@ -6,7 +6,7 @@ import java.text.NumberFormat;
 import java.util.StringTokenizer;
 
 
-public class TestNN {
+public class TestNN  {
 
 	public  static int a=0,z=0;
 	public static double xorIdeal[][];
