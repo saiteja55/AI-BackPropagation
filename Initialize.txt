@@ -1,0 +1,7 @@
+Input_Neurons---------->4
+Hidden_Neurons---------->2
+Output_Neurons---------->3
+LearningRate---------->0.7
+Momentum---------->0.9
+Train_Input_Records---------->120
+Train_Output_Records---------->30
